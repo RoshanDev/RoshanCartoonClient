@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>黑色</key>
+	<string>Skin/black2</string>
+	<key>红色</key>
+	<string>Skin/red2</string>
+	<key>蓝色</key>
+	<string>Skin/blue2</string>
+	<key>绿色</key>
+	<string>Skin/green2</string>
+	<key>默认</key>
+	<string></string>
+</dict>
+</plist>

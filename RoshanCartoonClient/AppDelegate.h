@@ -7,9 +7,14 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "WelcomeViewController.h"
+#import "SinaWeibo.h"
+#import "WXApi.h"
+#import "YXApi.h"
 
-@interface AppDelegate : UIResponder <UIApplicationDelegate>
+@interface AppDelegate : UIResponder <UIApplicationDelegate,WXApiDelegate,YXApiDelegate>
 
 @property (strong, nonatomic) UIWindow *window;
+@property (strong, nonatomic) WelcomeViewController *welcomeVC;
 
 @end
